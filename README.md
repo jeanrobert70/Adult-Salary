@@ -29,5 +29,5 @@ class: >50K, <=50K
 # Missing Attribute Values:
 7% have missing values.
 # Class Distribution:
-Probability for the label '>50K' : 23.93% / 24.78% (without unknowns)
-Probability for the label '<=50K' : 76.07% / 75.22% (without unknowns)
+* Probability for the label '>50K' : 23.93% / 24.78% (without unknowns)
+* Probability for the label '<=50K' : 76.07% / 75.22% (without unknowns)
